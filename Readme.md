@@ -12,7 +12,7 @@ Informationstechnologie 4 | Softwarearchitektur und -entwicklung
 
 
 ---
-**Zitieren** 
+**Zitieren**  
 Robert Koch-Institut (2024): Respiratorische Synzytialvirusfälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.10816726](https://doi.org/10.5281/zenodo.10816726).
 
 ## Informationen zum Datensatz und Entstehungskontext
