@@ -1,19 +1,22 @@
 Datensatzdokumentation  
 # Respiratorische Synzytialvirusfälle in Deutschland
 
-
-[Robert Koch-Institut](https://rki.de) | RKI  
+[**Robert Koch-Institut | RKI **](https://rki.de) 
 Nordufer 20  
 13353 Berlin  
 
-Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle    
-Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen  
-Informationstechnologie 4 | Softwarearchitektur und -entwicklung  
+<br>
 
+**Beitragende** 
+Fachgebiet 32&sup1;, Fachgebiet 36&sup1;  und Fachgebiet IT 4&sup2;
 
+&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Abteilung 3](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/abt3_node.html)
+&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Abteilung MFI](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/mfi_node.html)
+ 
 ---
+  
 **Zitieren**  
-Robert Koch-Institut (2024): Respiratorische Synzytialvirusfälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.12719618](https://doi.org/10.5281/zenodo.12719618).
+Robert Koch-Institut (**2024**): Respiratorische Synzytialvirusfälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.12770436](https://doi.org/10.5281/zenodo.12770436).
 
 ## Informationen zum Datensatz und Entstehungskontext
 
