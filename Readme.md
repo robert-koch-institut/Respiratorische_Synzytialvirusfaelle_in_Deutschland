@@ -7,7 +7,7 @@ Nordufer 20
 
 <br>
 
-**Beitragende** 
+**Beitragende**   
 Fachgebiet 32&sup1;, Fachgebiet 36&sup1;  und Fachgebiet IT 4&sup2;  
 
 &emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Abteilung 3](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/abt3_node.html)  
