@@ -113,6 +113,12 @@ In den Fallzahlen differenzieren die Spalten nach verschiedenen Merkmalen einer 
 
 #### Variablenausprägungen
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "IfSG_RSVfaelle", "lang": "de"} -->
+
+Die Datei [IfSG_RSVfaelle.tsv](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/IfSG_RSVfaelle.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_IfSG_RSVfaelle.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_IfSG_RSVfaelle.json) hinterlegt:
+> [frictionless_data_schema_IfSG_RSVfaelle.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_IfSG_RSVfaelle.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable     | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                                                                                                                                                                |
 |:-------------|:--------|:------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Meldewoche   | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche, in der der Fall dem Gesundheitsamt bekannt geworden ist. `JJJJ` entspricht der Jahresangabe, `Www` entspricht der Wochenangabe nach [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) (beispielsweise `2021-W34` für die 34. Kalenderwoche des Jahres 2021) |
@@ -122,11 +128,14 @@ In den Fallzahlen differenzieren die Spalten nach verschiedenen Merkmalen einer 
 | Fallzahl     | integer | Werte: ≥0                                                                                       | Anzahl der Fälle in der Fallgruppe                                                                                                                                                                                                                                          |
 | Inzidenz     | number  | Fehlende Werte: `NA`                                                                            | Anzahl der Fälle pro 100.000 Personen bezogen auf die Gesamtbevölkerung der Fallgruppe (`NA`, falls Altersgruppe oder Region unbekannt sind)                                                                                                                                |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_IfSG_RSVfaelle.json`](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_IfSG_RSVfaelle.json).
+
 
 
 #### Formatierung der Daten 
