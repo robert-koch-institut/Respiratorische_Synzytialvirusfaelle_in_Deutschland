@@ -115,8 +115,8 @@ In den Fallzahlen differenzieren die Spalten nach verschiedenen Merkmalen einer 
 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "IfSG_RSVfaelle", "lang": "de"} -->
 
-Die Datei [IfSG_RSVfaelle.tsv](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/IfSG_RSVfaelle.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_IfSG_RSVfaelle.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_IfSG_RSVfaelle.json) hinterlegt:
-> [frictionless_data_schema_IfSG_RSVfaelle.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_IfSG_RSVfaelle.json)
+Die Datei [IfSG_RSVfaelle.tsv](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/IfSG_RSVfaelle.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_IfSG_RSVfaelle.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_IfSG_RSVfaelle.json) hinterlegt:
+> [tableschema_IfSG_RSVfaelle.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_IfSG_RSVfaelle.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable     | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                                                                                                                                                                |
