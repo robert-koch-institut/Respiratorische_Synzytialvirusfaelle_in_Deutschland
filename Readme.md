@@ -10,8 +10,8 @@ Nordufer 20
 **Beitragende**   
 Fachgebiet 32&sup1;, Fachgebiet 36&sup1;  und Fachgebiet IT 4&sup2;  
 
-&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Abteilung 3](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/abt3_node.html)  
-&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Abteilung MFI](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/mfi_node.html)  
+&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Abteilung 3](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/abt3-infektionsepidemiologie-node.html)  
+&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Abteilung MFI](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/mfi-methodenentwicklung-forschungsinfrastruktur-und-informationstechnologie-node.html)  
  
 ---
   
@@ -28,10 +28,10 @@ Im Datensatz "Respiratorische Synzytialvirusfälle in Deutschland" werden die Fa
 
 ### Administrative und organisatorische Angaben
 
-Die zugrundeliegenden Daten werden im Rahmen des Meldesystems gemäß [IfSG](https://www.gesetze-im-internet.de/ifsg/index.html) erhoben und verarbeitet. Zuständig für die fachliche Umsetzung des Meldesystems ist das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/FG32_node.html) des RKI.  
-Das Qualitätsmanagement einschließlich Trend- und Todesfallkontrollen sowie die epidemiologische Bewertung der Daten erfolgt duch das [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI.  
-Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html).  
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open-Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Die zugrundeliegenden Daten werden im Rahmen des Meldesystems gemäß [IfSG](https://www.gesetze-im-internet.de/ifsg/index.html) erhoben und verarbeitet. Zuständig für die fachliche Umsetzung des Meldesystems ist das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html) des RKI.  
+Das Qualitätsmanagement einschließlich Trend- und Todesfallkontrollen sowie die epidemiologische Bewertung der Daten erfolgt duch das [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI.  
+Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open-Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Entstehungskontext
 
@@ -46,7 +46,7 @@ Dem Gesundheitsamt wird gemäß § 7 Abs. 1 Nr. 38a IfSG der direkte oder indire
 #### Falldefinition  
 
 Gemäß § 11 Abs. 2 IfSG hat das RKI die Aufgabe, Falldefinitionen zu erstellen, die die Kriterien für die Übermittlung von Meldedaten vom Gesundheitsamt an die zuständige Landesbehörde und von dort an das RKI festlegen. Die Falldefinitionen haben zum Ziel, bundesweit einheitliche Kriterien im Rahmen der epidemiologischen Überwachung von Infektionskrankheiten sicherzustellen. Damit sollen sie zu standardisierten Bewertungen, aussagekräftigeren Statistiken und letztlich objektiveren Entscheidungen beitragen.  
-Die Falldefinitionen ändern sich in unregelmäßigen Abständen, z.B. aufgrund neuer wissenschaftlicher Erkenntnisse, und werden auf der [Website des RKI](https://www.rki.de/DE/Content/Infekt/IfSG/Falldefinition/Downloads/Falldefinitionen_des_RKI_2023.pdf) veröffentlicht. Die Falldefinition orientiert sich dabei an den drei Evidenztypen:  
+Die Falldefinitionen ändern sich in unregelmäßigen Abständen, z.B. aufgrund neuer wissenschaftlicher Erkenntnisse, und werden auf der [Website des RKI](https://www.rki.de/DE/Themen/Infektionskrankheiten/Meldewesen/Falldefinitionen/Falldefinitionen_des_RKI_2023.pdf) veröffentlicht. Die Falldefinition orientiert sich dabei an den drei Evidenztypen:  
 
 Klinisches Bild  
 - Aufführung von klinischen Symptomen, Zeichen, Befunden und anamnestischen Angaben, die je nach Übermittlungskategorie einzeln oder in Kombination zutreffen müssen 
@@ -103,7 +103,7 @@ Die Fallzahlendaten bilden den wochenaktuellen Datenstand, mittwochs 00:00 Uhr, 
 
 Die Daten werden wöchentlich vollständig neu erzeugt und dieser Datenstand ersetzt den vorherigen Datenstand.
 
-Die Publikation der Daten erfolgt planmäßig donnerstags zusammen mit der aktuellen Ausgabe des [Epidemiologischen Bulletins](https://www.rki.de/DE/Content/Infekt/EpidBull/epid_bull_form.html) des RKI. 
+Die Publikation der Daten erfolgt planmäßig donnerstags zusammen mit der aktuellen Ausgabe des [Epidemiologischen Bulletins](https://www.rki.de/DE/Aktuelles/Publikationen/Epidemiologisches-Bulletin/epidemiologisches-bulletin-node.html) des RKI. 
 
 ### Variablen und Variablenausprägungen
 
