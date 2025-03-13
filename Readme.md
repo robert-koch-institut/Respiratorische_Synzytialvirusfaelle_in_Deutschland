@@ -17,7 +17,7 @@ Fachgebiet 32&sup1;, Fachgebiet 36&sup1;  und Fachgebiet IT 4&sup2;
   
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut. (2025). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14978362](https://doi.org/10.5281/zenodo.14978362)
+Robert Koch-Institut. (2025). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15016239](https://doi.org/10.5281/zenodo.15016239)
 <!-- CITATION_END -->
 
 

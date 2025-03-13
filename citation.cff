@@ -9,7 +9,7 @@ abstract: >-
   in Deutschland an die zuständigen Landesbehörden und das Robert Koch-Institut
   (RKI) übermittelten Infektionen mit dem Respiratorischen Synzytial-Virus (RSV)
   nach Meldewoche bereitgestellt. 
-date-released: '2025-03-06'
+date-released: '2025-03-13'
 keywords:
   - Respiratorische Synzytialvirusinfektionen
   - Respiratory Syncytial Virus Infections
@@ -29,7 +29,7 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.14978362
-version: '2025-03-06T08:00:13+01:00'
+doi: 10.5281/zenodo.15016239
+version: '2025-03-13T08:00:08+01:00'
 authors:
   - name: Robert Koch-Institut
