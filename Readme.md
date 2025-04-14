@@ -46,7 +46,7 @@ Dem Gesundheitsamt wird gemäß § 7 Abs. 1 Nr. 38a IfSG der direkte oder indire
 #### Falldefinition  
 
 Gemäß § 11 Abs. 2 IfSG hat das RKI die Aufgabe, Falldefinitionen zu erstellen, die die Kriterien für die Übermittlung von Meldedaten vom Gesundheitsamt an die zuständige Landesbehörde und von dort an das RKI festlegen. Die Falldefinitionen haben zum Ziel, bundesweit einheitliche Kriterien im Rahmen der epidemiologischen Überwachung von Infektionskrankheiten sicherzustellen. Damit sollen sie zu standardisierten Bewertungen, aussagekräftigeren Statistiken und letztlich objektiveren Entscheidungen beitragen.  
-Die Falldefinitionen ändern sich in unregelmäßigen Abständen, z.B. aufgrund neuer wissenschaftlicher Erkenntnisse, und werden auf der [Website des RKI](https://www.rki.de/DE/Themen/Infektionskrankheiten/Meldewesen/Falldefinitionen/Falldefinitionen_des_RKI_2023.pdf) veröffentlicht. Die Falldefinition orientiert sich dabei an den drei Evidenztypen:  
+Die Falldefinitionen ändern sich in unregelmäßigen Abständen, z.B. aufgrund neuer wissenschaftlicher Erkenntnisse, und werden auf der [Website des RKI](https://www.rki.de/DE/Themen/Infektionskrankheiten/Meldewesen/Falldefinitionen/falldefinitionen-node.html) veröffentlicht. Die Falldefinition orientiert sich dabei an den drei Evidenztypen:  
 
 Klinisches Bild  
 - Aufführung von klinischen Symptomen, Zeichen, Befunden und anamnestischen Angaben, die je nach Übermittlungskategorie einzeln oder in Kombination zutreffen müssen 
