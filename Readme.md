@@ -1,24 +1,45 @@
-Datensatzdokumentation  
+<!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation  
 # Respiratorische Synzytialvirusfälle in Deutschland
 
-[**Robert Koch-Institut | RKI**](https://rki.de)   
-Nordufer 20  
-13353 Berlin  
+<br> 
+<br> 
+<br> 
+
+[**Robert Koch-Institut**](https://www.rki.de/)
+
+<br> 
+
+**Beitragende**   
+[Fachgebiet 32](https://www.rki.de/fg32)&sup1;, [Fachgebiet 36](https://www.rki.de/fg36)&sup1;, & [Fachgebiet IT 4](https://www.rki.de/it4)&sup1;
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/)
+
+<br> 
+
+**Zitieren**  
+Robert Koch-Institut. (2025). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16977290](https://doi.org/10.5281/zenodo.16977290)
 
 <br>
 
-**Beitragende**   
-Fachgebiet 32&sup1;, Fachgebiet 36&sup1;  und Fachgebiet IT 4&sup2;  
 
-&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Abteilung 3](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/abt3-infektionsepidemiologie-node.html)  
-&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Abteilung MFI](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/mfi-methodenentwicklung-forschungsinfrastruktur-und-informationstechnologie-node.html)  
- 
----
-  
-**Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut. (2025). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16977290](https://doi.org/10.5281/zenodo.16977290)
-<!-- CITATION_END -->
+**Zusammenfassung**    
+Im Datensatz "Respiratorische Synzytialvirusfälle in Deutschland" des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Respiratorischen Synzytial-Virus (RSV) nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Daten und Datenaufbereitung](#daten-und-datenaufbereitung)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
 
 
 
@@ -28,10 +49,10 @@ Im Datensatz "Respiratorische Synzytialvirusfälle in Deutschland" werden die Fa
 
 ### Administrative und organisatorische Angaben
 
-Die zugrundeliegenden Daten werden im Rahmen des Meldesystems gemäß [IfSG](https://www.gesetze-im-internet.de/ifsg/index.html) erhoben und verarbeitet. Zuständig für die fachliche Umsetzung des Meldesystems ist das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html) des RKI.  
-Das Qualitätsmanagement einschließlich Trend- und Todesfallkontrollen sowie die epidemiologische Bewertung der Daten erfolgt duch das [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI.  
-Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html).  
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open-Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Die zugrundeliegenden Daten werden im Rahmen des Meldesystems gemäß [IfSG](https://www.gesetze-im-internet.de/ifsg/index.html) erhoben und verarbeitet. Zuständig für die fachliche Umsetzung des Meldesystems ist das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle](https://www.rki.de/fg32) des RKI.  
+Das Qualitätsmanagement einschließlich Trend- und Todesfallkontrollen sowie die epidemiologische Bewertung der Daten erfolgt duch das [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/fg36) des RKI.  
+Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/it4).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open-Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Entstehungskontext
 
@@ -94,7 +115,7 @@ Im Datensatz enthalten sind:
 - Metadaten zur Datenpublikation  
 - Lizenz-Datei mit der Nutzungslizenz des Datensatzes  
 
-Zentrales Datum des Datensatzes sind die aktuellen Fallzahlen der RSV-Infektionen. Diese sind im Hauptverzeichnis unter "IfSG_RSVfaelle.tsv" abrufbar und werden wöchentlich überschrieben.
+Der Datensatz enthält die aktuellen Fallzahlen der RSV-Infektionen. Diese sind im Hauptverzeichnis unter "IfSG_RSVfaelle.tsv" abrufbar und werden wöchentlich überschrieben.
 
 
 > [IfSG_RSVfaelle.tsv](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/IfSG_RSVfaelle.tsv)  
