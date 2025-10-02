@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: Respiratorische Synzytialvirusfälle in Deutschland
 abstract: "Im Datensatz &quot;Respiratorische Synzytialvirusfälle in Deutschland&quot;\_des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Respiratorischen Synzytial-Virus (RSV) nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen."
-date-released: '2025-09-25'
+date-released: '2025-10-02'
 keywords:
   - Respiratorische Synzytialvirusinfektionen
   - Respiratory Syncytial Virus Infections
@@ -22,8 +22,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.17197740
-version: '2025-09-25T08:00:14+02:00'
+doi: 10.5281/zenodo.17248293
+version: '2025-10-02T08:00:12+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
