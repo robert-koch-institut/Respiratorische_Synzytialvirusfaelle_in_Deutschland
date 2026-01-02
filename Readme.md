@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # Respiratorische Synzytialvirusfälle in Deutschland
 
 <br> 
@@ -20,7 +21,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut. (2025). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18113511](https://doi.org/10.5281/zenodo.18113511)
+Robert Koch-Institut. (2026). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18113511](https://doi.org/10.5281/zenodo.18113511)
 
 <br>
 
@@ -30,11 +31,12 @@ Im Datensatz "Respiratorische Synzytialvirusfälle in Deutschland" des Robert K
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Daten und Datenaufbereitung](#daten-und-datenaufbereitung)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Daten und Datenaufbereitung](#daten-und-datenaufbereitung)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -144,14 +146,14 @@ Die Datei [IfSG_RSVfaelle.tsv](https://github.com/robert-koch-institut/Respirato
 > [tableschema_IfSG_RSVfaelle.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_IfSG_RSVfaelle.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable     | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                                                                                                                                                                |
-|:-------------|:--------|:------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Meldewoche   | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche, in der der Fall dem Gesundheitsamt bekannt geworden ist. `JJJJ` entspricht der Jahresangabe, `Www` entspricht der Wochenangabe nach [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) (beispielsweise `2021-W34` für die 34. Kalenderwoche des Jahres 2021) |
-| Region       | string  | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Bezugsregion, Bundesland bzw. Deutschland gesamt                                                                                                                                                                                                                   |
-| Region_Id    | string  | Werte: `01`, `02`, `03`, `04`, `05`, `06`, `07`, …<br>Fehlende Werte: `NA`                      | ID nach dem Amtlichen Gemeindeschlüssel. Zusätzlich `00` für Deutschland gesamt und `NA` für unbekannt                                                                                                                                                                      |
-| Altersgruppe | string  | Werte: `00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+`, `00+`, …                             | Altersspanne der in der Gruppe enthaltenen Fälle                                                                                                                                                                                                                            |
-| Fallzahl     | integer | Werte: `≥0`                                                                                     | Anzahl der Fälle in der Fallgruppe                                                                                                                                                                                                                                          |
-| Inzidenz     | number  | Fehlende Werte: `NA`                                                                            | Anzahl der Fälle pro 100.000 Personen bezogen auf die Gesamtbevölkerung der Fallgruppe (`NA`, falls Altersgruppe oder Region unbekannt sind)                                                                                                                                |
+| Variable     | Typ     | Ausprägungen                                                                                       | Beschreibung                                                                                                                                                                                                                                                                |
+|:-------------|:--------|:---------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Meldewoche   | date    | Format: `YYYY-Www`                                                                                 | Kalenderwoche, in der der Fall dem Gesundheitsamt bekannt geworden ist. `JJJJ` entspricht der Jahresangabe, `Www` entspricht der Wochenangabe nach [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) (beispielsweise `2021-W34` für die 34. Kalenderwoche des Jahres 2021) |
+| Region       | string  | Werte:<br>`Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Bezugsregion, Bundesland bzw. Deutschland gesamt                                                                                                                                                                                                                   |
+| Region_Id    | string  | Werte:<br>`01`, `02`, `03`, `04`, `05`, `06`, `07`, …<br>Fehlende Werte:<br>`NA`                   | ID nach dem Amtlichen Gemeindeschlüssel. Zusätzlich `00` für Deutschland gesamt und `NA` für unbekannt                                                                                                                                                                      |
+| Altersgruppe | string  | Werte:<br>`00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+`, `00+`, …                             | Altersspanne der in der Gruppe enthaltenen Fälle                                                                                                                                                                                                                            |
+| Fallzahl     | integer | Werte: `≥0`                                                                                        | Anzahl der Fälle in der Fallgruppe                                                                                                                                                                                                                                          |
+| Inzidenz     | number  | Fehlende Werte:<br>`NA`                                                                            | Anzahl der Fälle pro 100.000 Personen bezogen auf die Gesamtbevölkerung der Fallgruppe (`NA`, falls Altersgruppe oder Region unbekannt sind)                                                                                                                                |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -177,7 +179,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/blob/main/Metadaten/zenodo.json)  
 
@@ -188,8 +190,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -218,6 +220,8 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 - https://github.com/robert-koch-institut  
 - https://gitlab.opencode.de/robert-koch-institut  
 - https://edoc.rki.de/  
+
+
  
 ### Lizenz  
 
