@@ -22,7 +22,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->  
-Robert Koch-Institut. (2026). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18692598](https://doi.org/10.5281/zenodo.18692598)
+Robert Koch-Institut. (2026). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18739882](https://doi.org/10.5281/zenodo.18739882)
 <!-- CITATION_END -->
 
 
@@ -132,6 +132,9 @@ Die Fallzahlendaten bilden den wochenaktuellen Datenstand, mittwochs 00:00 Uhr, 
 Die Daten werden wöchentlich vollständig neu erzeugt und dieser Datenstand ersetzt den vorherigen Datenstand.
 
 Die Publikation der Daten erfolgt planmäßig donnerstags zusammen mit der aktuellen Ausgabe des [Epidemiologischen Bulletins](https://www.rki.de/DE/Aktuelles/Publikationen/Epidemiologisches-Bulletin/epidemiologisches-bulletin-node.html) des RKI. 
+
+> [!NOTE]
+> Von März 2025 bis Februar 2026 wurden nicht alle an das RKI übermittelten RSV-Infektionen zeitnah veröffentlicht, da bei Infrastrukturanpassungen die Datenabfrage technisch nicht korrekt umgesetzt wurde. Am 23.02.2026 wurden die korrigierten Daten nachträglich veröffentlicht. Die Differenz, die aufgrund dieser Anpassung entstanden ist, finden Sie in der [entsprechenden Veröffentlichung](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/pull/5/changes).
 
 ### Variablen und Variablenausprägungen
 
