@@ -1,15 +1,21 @@
 {
   "title": "Respiratorische Synzytialvirusfälle in Deutschland",
-  "description": "<p>Im Datensatz &quot;Respiratorische Synzytialvirusfälle in Deutschland&quot; des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Respiratorischen Synzytial-Virus (RSV) nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.</p>\n",
+  "description": "<p>Im Datensatz \"Respiratorische Synzytialvirusfälle in Deutschland\" des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Respiratorischen Synzytial-Virus (RSV) nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-04-09",
+  "publication_date": "2026-04-16",
   "creators": [
     {
       "person_or_org": {
         "type": "organizational",
-        "name": "Robert Koch-Institut"
+        "name": "Robert Koch-Institut",
+        "identifiers": [
+          {
+            "scheme": "ror",
+            "identifier": "01k5qnb77"
+          }
+        ]
       }
     }
   ],
@@ -19,6 +25,12 @@
         "type": "organizational",
         "name": "Fachgebiet 32"
       },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
       "role": {
         "id": "projectmanager"
       }
@@ -28,6 +40,12 @@
         "type": "organizational",
         "name": "Fachgebiet 36"
       },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
       "role": {
         "id": "researcher"
       }
@@ -37,16 +55,22 @@
         "type": "organizational",
         "name": "Fachgebiet IT 4"
       },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
       "role": {
         "id": "datamanager"
       }
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-04-09",
+  "version": "2026-04-16",
   "dates": [
     {
-      "date": "2026-04-09T08:00:14+02:00",
+      "date": "2026-04-16T08:00:13+02:00",
       "type": {
         "id": "created"
       },
@@ -108,29 +132,23 @@
     },
     {
       "subject": "Open Data"
+    },
+    {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
+      "subject": "Epidemiologie"
+    },
+    {
+      "subject": "Public health surveillance"
+    },
+    {
+      "subject": "Epidemiology"
     }
   ],
   "custom_fields": {
     "legacy:communities": [
       "robertkochinstitut"
-    ],
-    "legacy:subjects": [
-      {
-        "term": "Gesundheitsberichterstattung",
-        "identifier": "info:ddc/22/de//614.42"
-      },
-      {
-        "term": "Epidemiologie",
-        "identifier": "info:ddc/22/de//614.4"
-      },
-      {
-        "term": "Public health surveillance",
-        "identifier": "info:ddc/22/eng//614.42"
-      },
-      {
-        "term": "Epidemiology",
-        "identifier": "info:ddc/22/eng//614.4"
-      }
     ]
   }
 }

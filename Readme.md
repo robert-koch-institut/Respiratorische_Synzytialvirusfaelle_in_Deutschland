@@ -21,8 +21,8 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->  
-Robert Koch-Institut. (2026). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.19479214](https://doi.org/10.5281/zenodo.19479214)
+<!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
+Robert Koch-Institut. (2026). Respiratorische Synzytialvirusfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.19602901](https://doi.org/10.5281/zenodo.19602901)
 <!-- CITATION_END -->
 
 
