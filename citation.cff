@@ -7,7 +7,7 @@ abstract: Im Datensatz "Respiratorische Synzytialvirusfälle in Deutschland" de
   enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition
   des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen
   als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.
-date-released: '2026-06-11'
+date-released: '2026-06-18'
 keywords:
   - Respiratorische Synzytialvirusinfektionen
   - Respiratory Syncytial Virus Infections
@@ -27,8 +27,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Respiratorische_Synzytialvirusfaelle_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.20637428
-version: '2026-06-11T08:00:09+02:00'
+doi: 10.5281/zenodo.20741628
+version: '2026-06-18T08:00:09+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
