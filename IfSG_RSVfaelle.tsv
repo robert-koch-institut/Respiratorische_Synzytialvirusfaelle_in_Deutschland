@@ -3119,8 +3119,8 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W04	Sachsen	14	00+	332	8.13
 2026-W04	Sachsen-Anhalt	15	00+	169	7.73
 2026-W04	Thüringen	16	00+	121	5.69
-2026-W05	Deutschland	00	00-04	1833	45.96
-2026-W05	Deutschland	00	00+	3988	4.73
+2026-W05	Deutschland	00	00-04	1832	45.93
+2026-W05	Deutschland	00	00+	3987	4.73
 2026-W05	Deutschland	00	05-14	345	4.34
 2026-W05	Deutschland	00	15-34	273	1.43
 2026-W05	Deutschland	00	35-59	495	1.74
@@ -3138,7 +3138,7 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W05	Bayern	09	00+	874	6.54
 2026-W05	Saarland	10	00+	47	4.73
 2026-W05	Berlin	11	00+	226	6.02
-2026-W05	Brandenburg	12	00+	198	7.69
+2026-W05	Brandenburg	12	00+	197	7.66
 2026-W05	Mecklenburg-Vorpommern	13	00+	90	5.53
 2026-W05	Sachsen	14	00+	454	11.11
 2026-W05	Sachsen-Anhalt	15	00+	268	12.26
@@ -3648,11 +3648,11 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W26	Sachsen-Anhalt	15	00+	1	0.05
 2026-W26	Thüringen	16	00+	0	0
 2026-W27	Deutschland	00	00-04	11	0.28
-2026-W27	Deutschland	00	00+	29	0.03
+2026-W27	Deutschland	00	00+	30	0.04
 2026-W27	Deutschland	00	05-14	2	0.03
 2026-W27	Deutschland	00	15-34	0	0
 2026-W27	Deutschland	00	35-59	2	0.01
-2026-W27	Deutschland	00	60-79	8	0.04
+2026-W27	Deutschland	00	60-79	9	0.05
 2026-W27	Deutschland	00	80+	6	0.1
 2026-W27	Deutschland	00	Unbekannt	0	NA
 2026-W27	Schleswig-Holstein	01	00+	2	0.07
@@ -3670,4 +3670,4 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W27	Mecklenburg-Vorpommern	13	00+	4	0.25
 2026-W27	Sachsen	14	00+	1	0.02
 2026-W27	Sachsen-Anhalt	15	00+	0	0
-2026-W27	Thüringen	16	00+	1	0.05
+2026-W27	Thüringen	16	00+	2	0.09
