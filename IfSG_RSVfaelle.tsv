@@ -3167,8 +3167,8 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W06	Sachsen	14	00+	566	13.85
 2026-W06	Sachsen-Anhalt	15	00+	288	13.17
 2026-W06	Thüringen	16	00+	184	8.65
-2026-W07	Deutschland	00	00-04	2721	68.22
-2026-W07	Deutschland	00	00+	6231	7.39
+2026-W07	Deutschland	00	00-04	2723	68.27
+2026-W07	Deutschland	00	00+	6233	7.39
 2026-W07	Deutschland	00	05-14	513	6.46
 2026-W07	Deutschland	00	15-34	429	2.25
 2026-W07	Deutschland	00	35-59	798	2.8
@@ -3179,7 +3179,7 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W07	Hamburg	02	00+	143	7.56
 2026-W07	Niedersachsen	03	00+	387	4.75
 2026-W07	Bremen	04	00+	22	3.21
-2026-W07	Nordrhein-Westfalen	05	00+	745	4.11
+2026-W07	Nordrhein-Westfalen	05	00+	747	4.12
 2026-W07	Hessen	06	00+	325	5.08
 2026-W07	Rheinland-Pfalz	07	00+	214	5.15
 2026-W07	Baden-Württemberg	08	00+	553	4.9
@@ -3239,8 +3239,8 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W09	Sachsen	14	00+	808	19.77
 2026-W09	Sachsen-Anhalt	15	00+	711	32.52
 2026-W09	Thüringen	16	00+	309	14.53
-2026-W10	Deutschland	00	00-04	2611	65.46
-2026-W10	Deutschland	00	00+	6587	7.81
+2026-W10	Deutschland	00	00-04	2612	65.49
+2026-W10	Deutschland	00	00+	6588	7.81
 2026-W10	Deutschland	00	05-14	505	6.36
 2026-W10	Deutschland	00	15-34	477	2.5
 2026-W10	Deutschland	00	35-59	860	3.02
@@ -3251,7 +3251,7 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W10	Hamburg	02	00+	128	6.76
 2026-W10	Niedersachsen	03	00+	442	5.43
 2026-W10	Bremen	04	00+	21	3.07
-2026-W10	Nordrhein-Westfalen	05	00+	797	4.39
+2026-W10	Nordrhein-Westfalen	05	00+	798	4.4
 2026-W10	Hessen	06	00+	332	5.19
 2026-W10	Rheinland-Pfalz	07	00+	218	5.24
 2026-W10	Baden-Württemberg	08	00+	549	4.87
@@ -3407,8 +3407,8 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W16	Sachsen	14	00+	247	6.04
 2026-W16	Sachsen-Anhalt	15	00+	231	10.56
 2026-W16	Thüringen	16	00+	114	5.36
-2026-W17	Deutschland	00	00-04	267	6.69
-2026-W17	Deutschland	00	00+	1344	1.59
+2026-W17	Deutschland	00	00-04	268	6.72
+2026-W17	Deutschland	00	00+	1345	1.59
 2026-W17	Deutschland	00	05-14	47	0.59
 2026-W17	Deutschland	00	15-34	85	0.45
 2026-W17	Deutschland	00	35-59	193	0.68
@@ -3419,7 +3419,7 @@ Meldewoche	Region	Region_Id	Altersgruppe	Fallzahl	Inzidenz
 2026-W17	Hamburg	02	00+	20	1.06
 2026-W17	Niedersachsen	03	00+	75	0.92
 2026-W17	Bremen	04	00+	7	1.02
-2026-W17	Nordrhein-Westfalen	05	00+	179	0.99
+2026-W17	Nordrhein-Westfalen	05	00+	180	0.99
 2026-W17	Hessen	06	00+	64	1
 2026-W17	Rheinland-Pfalz	07	00+	46	1.11
 2026-W17	Baden-Württemberg	08	00+	122	1.08
