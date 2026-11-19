@@ -64,7 +64,7 @@ Das RKI ist ein Bundesinstitut im Geschäftsbereich des [Bundesministeriums für
 
 #### Infektionsschutzgesetz
 
-Das [Infektionsschutzgesetz ](https://www.gesetze-im-internet.de/ifsg/index.html) hat den Zweck, der Übertragung von Krankheiten beim Menschen vorzubeugen und Infektionen frühzeitig zu erkennen sowie die Verbreitung dieser zu verhindern. Es regelt, welche Krankheiten bei Verdacht, Erkrankung oder Tod und welche Nachweise von Krankheitserregern meldepflichtig sind. Zusätzlich wird neben der Art der zu meldenden Krankheit auch festgelegt, welche Personen zur Meldung verpflichtet sind, welche Angaben solch eine Meldung enthalten muss, an wen diese Meldung erfolgen muss und welche Fristen eingehalten werden müssen.
+Das [Infektionsschutzgesetz ](https://www.gesetze-im-internet.de/ifsg/index.html) hat den Zweck, der Übertragung von Krankheiten beim Menschen vorzubeugen und Infektionen frühzeitig zu erkennen sowie ihre Verbreitung zu verhindern. Es regelt, welche Krankheiten bei Verdacht, Erkrankung oder Tod und welche Nachweise von Krankheitserregern meldepflichtig sind. Zusätzlich wird neben der Art der zu meldenden Krankheit auch festgelegt, welche Personen zur Meldung verpflichtet sind, welche Angaben solch eine Meldung enthalten muss, an wen diese Meldung erfolgen muss und welche Fristen eingehalten werden müssen.
 
 Dem Gesundheitsamt wird gemäß § 7 Abs. 1 Nr. 38a IfSG der direkte oder indirekte Nachweis von Respiratorischen Synzytial-Viren, soweit er auf eine akute Infektion hinweist, namentlich gemeldet. Die bundesweite Meldepflicht besteht seit 21.07.2023.
 
@@ -133,8 +133,6 @@ Die Daten werden wöchentlich vollständig neu erzeugt und dieser Datenstand ers
 
 Die Publikation der Daten erfolgt planmäßig donnerstags zusammen mit der aktuellen Ausgabe des [Epidemiologischen Bulletins](https://www.rki.de/DE/Aktuelles/Publikationen/Epidemiologisches-Bulletin/epidemiologisches-bulletin-node.html) des RKI. 
 
-> [!NOTE]
-> Von März 2025 bis Februar 2026 wurden nicht alle an das RKI übermittelten RSV-Infektionen zeitnah veröffentlicht, da bei Infrastrukturanpassungen die Datenabfrage technisch nicht korrekt umgesetzt wurde. Am 23.02.2026 wurden die korrigierten Daten nachträglich veröffentlicht. Die Differenz, die aufgrund dieser Anpassung entstanden ist, finden Sie in der [entsprechenden Veröffentlichung](https://github.com/robert-koch-institut/Respiratorische_Synzytialvirusfaelle_in_Deutschland/pull/5/changes).
 
 ### Variablen und Variablenausprägungen
 
